@@ -1,0 +1,23 @@
+# Local assistant notes and generated Python files
+.workbuddy/
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+
+# Credentials and local environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.token
+credentials.json
+secrets.json
+
+# Generated training checkpoints (too large for regular Git)
+/demo/tickets-checkpoint/

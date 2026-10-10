@@ -1,0 +1,1204 @@
+ticket_id,body,department
+1785,The app crashes on startup since the last update.,technical
+1733,Login page returns a 500 error in Chrome.,technical
+1564,We were billed twice for March.,billing
+1200,We were billed twice for March.,billing
+1212,Card was charged 9549 dollars instead of the advertised price.,billing
+1127,Please report abuse: a user is leaking credentials in forum posts.,security
+1223,I received a phishing email pretending to be your billing team.,security
+1070,"Two-factor authentication lockout, recovery codes lost.",account
+1630,Please close my account and delete my data.,account
+1199,Someone logged into my account from another country.,security
+1121,The app crashes on startup since the last update.,technical
+1846,Transfer ownership of the org to another admin.,account
+1889,Search results take over 30 seconds to load.,technical
+2169,Search results take over 30 seconds to load.,technical
+1323,Our security scan flagged an exposed token in a public repo.,security
+1638,I need to change the email on my account.,account
+1051,Suspicious API key was created on our org overnight.,security
+1587,Please report abuse: a user is leaking credentials in forum posts.,security
+1318,Transfer ownership of the org to another admin.,account
+1621,Login page returns a 500 error in Chrome.,technical
+1594,I need to change the email on my account.,account
+1395,Suspicious API key was created on our org overnight.,security
+1595,Our security scan flagged an exposed token in a public repo.,security
+1112,My invoice shows a charge I never approved.,billing
+2035,Suspicious API key was created on our org overnight.,security
+1772,My invoice shows a charge I never approved.,billing
+1434,Transfer ownership of the org to another admin.,account
+1010,Transfer ownership of the org to another admin.,account
+1231,Suspicious API key was created on our org overnight.,security
+1989,Export to CSV has been failing for three days.,technical
+2025,The app crashes on startup since the last update.,technical
+1900,My invoice shows a charge I never approved.,billing
+1610,I need to change the email on my account.,account
+2154,I need to change the email on my account.,account
+1538,"Two-factor authentication lockout, recovery codes lost.",account
+1974,Please close my account and delete my data.,account
+1498,"Two-factor authentication lockout, recovery codes lost.",account
+2060,My invoice shows a charge I never approved.,billing
+1972,We were billed twice for March.,billing
+1462,Please close my account and delete my data.,account
+1015,I received a phishing email pretending to be your billing team.,security
+1362,"Two-factor authentication lockout, recovery codes lost.",account
+2119,Someone logged into my account from another country.,security
+1871,Our security scan flagged an exposed token in a public repo.,security
+1751,I received a phishing email pretending to be your billing team.,security
+1280,We were billed twice for March.,billing
+1006,Transfer ownership of the org to another admin.,account
+1241,The app crashes on startup since the last update.,technical
+2027,Our security scan flagged an exposed token in a public repo.,security
+1894,Please close my account and delete my data.,account
+1363,Someone logged into my account from another country.,security
+1941,Login page returns a 500 error in Chrome.,technical
+1278,"Two-factor authentication lockout, recovery codes lost.",account
+1043,I received a phishing email pretending to be your billing team.,security
+1260,We were billed twice for March.,billing
+1451,Please report abuse: a user is leaking credentials in forum posts.,security
+1239,Suspicious API key was created on our org overnight.,security
+1021,The app crashes on startup since the last update.,technical
+1097,Export to CSV has been failing for three days.,technical
+2038,"Two-factor authentication lockout, recovery codes lost.",account
+1547,Someone logged into my account from another country.,security
+1810,I need to change the email on my account.,account
+1524,Card was charged 2113 dollars instead of the advertised price.,billing
+1236,Card was charged 2238 dollars instead of the advertised price.,billing
+1766,Please close my account and delete my data.,account
+1728,Please refund the duplicate payment on invoice #7888.,billing
+1649,Export to CSV has been failing for three days.,technical
+1258,Please close my account and delete my data.,account
+1585,Export to CSV has been failing for three days.,technical
+1787,Please report abuse: a user is leaking credentials in forum posts.,security
+1992,My invoice shows a charge I never approved.,billing
+1039,Please report abuse: a user is leaking credentials in forum posts.,security
+1590,"Two-factor authentication lockout, recovery codes lost.",account
+1709,Export to CSV has been failing for three days.,technical
+1370,Transfer ownership of the org to another admin.,account
+1806,How do I add a teammate to the workspace?,account
+1637,Webhook deliveries stopped after we rotated the API key.,technical
+1489,Export to CSV has been failing for three days.,technical
+1852,Please refund the duplicate payment on invoice #8180.,billing
+1253,Login page returns a 500 error in Chrome.,technical
+1665,Webhook deliveries stopped after we rotated the API key.,technical
+1484,The annual plan was charged but I downgraded to monthly last week.,billing
+1893,Webhook deliveries stopped after we rotated the API key.,technical
+1009,Search results take over 30 seconds to load.,technical
+1053,The app crashes on startup since the last update.,technical
+1504,The annual plan was charged but I downgraded to monthly last week.,billing
+1186,"Two-factor authentication lockout, recovery codes lost.",account
+1205,Login page returns a 500 error in Chrome.,technical
+1957,Export to CSV has been failing for three days.,technical
+1905,Webhook deliveries stopped after we rotated the API key.,technical
+1537,Search results take over 30 seconds to load.,technical
+1683,Someone logged into my account from another country.,security
+2193,Search results take over 30 seconds to load.,technical
+1896,My invoice shows a charge I never approved.,billing
+1993,Login page returns a 500 error in Chrome.,technical
+1517,Export to CSV has been failing for three days.,technical
+1540,Card was charged 9274 dollars instead of the advertised price.,billing
+1167,I received a phishing email pretending to be your billing team.,security
+1077,Search results take over 30 seconds to load.,technical
+1005,Export to CSV has been failing for three days.,technical
+1997,Export to CSV has been failing for three days.,technical
+1680,We were billed twice for March.,billing
+1295,Someone logged into my account from another country.,security
+2103,I received a phishing email pretending to be your billing team.,security
+1282,I need to change the email on my account.,account
+1514,Please close my account and delete my data.,account
+1602,"Two-factor authentication lockout, recovery codes lost.",account
+1615,Please report abuse: a user is leaking credentials in forum posts.,security
+1311,Someone logged into my account from another country.,security
+2045,Export to CSV has been failing for three days.,technical
+1681,The app crashes on startup since the last update.,technical
+1929,Search results take over 30 seconds to load.,technical
+1264,My invoice shows a charge I never approved.,billing
+1828,Card was charged 1796 dollars instead of the advertised price.,billing
+1708,My invoice shows a charge I never approved.,billing
+1215,Suspicious API key was created on our org overnight.,security
+1762,"Two-factor authentication lockout, recovery codes lost.",account
+1831,I received a phishing email pretending to be your billing team.,security
+2007,Please report abuse: a user is leaking credentials in forum posts.,security
+1507,Someone logged into my account from another country.,security
+1495,Please report abuse: a user is leaking credentials in forum posts.,security
+1525,Webhook deliveries stopped after we rotated the API key.,technical
+1138,Transfer ownership of the org to another admin.,account
+1938,"Two-factor authentication lockout, recovery codes lost.",account
+1839,Someone logged into my account from another country.,security
+1284,Card was charged 7024 dollars instead of the advertised price.,billing
+1817,Webhook deliveries stopped after we rotated the API key.,technical
+1757,Search results take over 30 seconds to load.,technical
+2113,Export to CSV has been failing for three days.,technical
+1877,Search results take over 30 seconds to load.,technical
+2086,"Two-factor authentication lockout, recovery codes lost.",account
+2012,My invoice shows a charge I never approved.,billing
+1627,Someone logged into my account from another country.,security
+1143,Our security scan flagged an exposed token in a public repo.,security
+1189,Webhook deliveries stopped after we rotated the API key.,technical
+1052,My invoice shows a charge I never approved.,billing
+1176,We were billed twice for March.,billing
+1664,We were billed twice for March.,billing
+2112,Card was charged 1233 dollars instead of the advertised price.,billing
+1180,We were billed twice for March.,billing
+1682,How do I add a teammate to the workspace?,account
+1132,Please refund the duplicate payment on invoice #2048.,billing
+1050,How do I add a teammate to the workspace?,account
+1913,Export to CSV has been failing for three days.,technical
+1499,I received a phishing email pretending to be your billing team.,security
+1566,I need to change the email on my account.,account
+1739,Suspicious API key was created on our org overnight.,security
+1634,Transfer ownership of the org to another admin.,account
+1059,Our security scan flagged an exposed token in a public repo.,security
+2085,The app crashes on startup since the last update.,technical
+2155,I received a phishing email pretending to be your billing team.,security
+1530,"Two-factor authentication lockout, recovery codes lost.",account
+1111,Our security scan flagged an exposed token in a public repo.,security
+1137,Login page returns a 500 error in Chrome.,technical
+1994,I need to change the email on my account.,account
+1658,Transfer ownership of the org to another admin.,account
+1684,The annual plan was charged but I downgraded to monthly last week.,billing
+1836,Card was charged 5983 dollars instead of the advertised price.,billing
+1394,Please close my account and delete my data.,account
+1888,We were billed twice for March.,billing
+1294,Please close my account and delete my data.,account
+1656,Please refund the duplicate payment on invoice #2503.,billing
+1228,My invoice shows a charge I never approved.,billing
+1707,Our security scan flagged an exposed token in a public repo.,security
+1511,Suspicious API key was created on our org overnight.,security
+1603,Our security scan flagged an exposed token in a public repo.,security
+2151,Someone logged into my account from another country.,security
+1970,How do I add a teammate to the workspace?,account
+1250,I need to change the email on my account.,account
+1657,Webhook deliveries stopped after we rotated the API key.,technical
+1380,Please refund the duplicate payment on invoice #4890.,billing
+1911,Please report abuse: a user is leaking credentials in forum posts.,security
+1597,Export to CSV has been failing for three days.,technical
+1788,We were billed twice for March.,billing
+2197,The app crashes on startup since the last update.,technical
+1882,How do I add a teammate to the workspace?,account
+1909,Search results take over 30 seconds to load.,technical
+2141,Export to CSV has been failing for three days.,technical
+2096,We were billed twice for March.,billing
+1563,Suspicious API key was created on our org overnight.,security
+2043,Someone logged into my account from another country.,security
+1833,Webhook deliveries stopped after we rotated the API key.,technical
+1863,Suspicious API key was created on our org overnight.,security
+1898,I need to change the email on my account.,account
+1306,Transfer ownership of the org to another admin.,account
+1423,Please report abuse: a user is leaking credentials in forum posts.,security
+1606,I need to change the email on my account.,account
+1973,Export to CSV has been failing for three days.,technical
+1314,I need to change the email on my account.,account
+1767,Our security scan flagged an exposed token in a public repo.,security
+1654,Transfer ownership of the org to another admin.,account
+1829,Search results take over 30 seconds to load.,technical
+1955,I received a phishing email pretending to be your billing team.,security
+1914,Transfer ownership of the org to another admin.,account
+2075,Suspicious API key was created on our org overnight.,security
+1184,The annual plan was charged but I downgraded to monthly last week.,billing
+1518,Please close my account and delete my data.,account
+1903,I received a phishing email pretending to be your billing team.,security
+1607,Someone logged into my account from another country.,security
+2176,My invoice shows a charge I never approved.,billing
+1996,We were billed twice for March.,billing
+1756,Please refund the duplicate payment on invoice #5434.,billing
+1101,Search results take over 30 seconds to load.,technical
+1642,"Two-factor authentication lockout, recovery codes lost.",account
+1516,Please refund the duplicate payment on invoice #6260.,billing
+1483,Suspicious API key was created on our org overnight.,security
+1793,The app crashes on startup since the last update.,technical
+1410,Transfer ownership of the org to another admin.,account
+2084,Please refund the duplicate payment on invoice #6293.,billing
+2089,The app crashes on startup since the last update.,technical
+1960,Card was charged 2659 dollars instead of the advertised price.,billing
+1192,Card was charged 3587 dollars instead of the advertised price.,billing
+1139,I received a phishing email pretending to be your billing team.,security
+2102,"Two-factor authentication lockout, recovery codes lost.",account
+1334,Please close my account and delete my data.,account
+1297,Login page returns a 500 error in Chrome.,technical
+99990,This ticket has no department.,
+1932,We were billed twice for March.,billing
+1529,Export to CSV has been failing for three days.,technical
+2051,I received a phishing email pretending to be your billing team.,security
+1376,We were billed twice for March.,billing
+2159,I received a phishing email pretending to be your billing team.,security
+1918,Please close my account and delete my data.,account
+1441,Search results take over 30 seconds to load.,technical
+1028,Please refund the duplicate payment on invoice #3421.,billing
+1266,Please close my account and delete my data.,account
+1492,We were billed twice for March.,billing
+1193,Export to CSV has been failing for three days.,technical
+1991,Someone logged into my account from another country.,security
+1396,We were billed twice for March.,billing
+1687,Our security scan flagged an exposed token in a public repo.,security
+1678,How do I add a teammate to the workspace?,account
+1837,Search results take over 30 seconds to load.,technical
+1469,Search results take over 30 seconds to load.,technical
+2144,Card was charged 1038 dollars instead of the advertised price.,billing
+1378,How do I add a teammate to the workspace?,account
+1048,Card was charged 7449 dollars instead of the advertised price.,billing
+2126,Transfer ownership of the org to another admin.,account
+1922,Transfer ownership of the org to another admin.,account
+2127,I received a phishing email pretending to be your billing team.,security
+1104,The annual plan was charged but I downgraded to monthly last week.,billing
+1221,Search results take over 30 seconds to load.,technical
+1940,We were billed twice for March.,billing
+1586,Please close my account and delete my data.,account
+1821,Export to CSV has been failing for three days.,technical
+2140,Please refund the duplicate payment on invoice #3121.,billing
+1948,My invoice shows a charge I never approved.,billing
+1688,We were billed twice for March.,billing
+1275,I received a phishing email pretending to be your billing team.,security
+1371,Suspicious API key was created on our org overnight.,security
+1144,The annual plan was charged but I downgraded to monthly last week.,billing
+1080,Please refund the duplicate payment on invoice #9356.,billing
+1860,The annual plan was charged but I downgraded to monthly last week.,billing
+2156,My invoice shows a charge I never approved.,billing
+1578,I need to change the email on my account.,account
+1350,How do I add a teammate to the workspace?,account
+1838,How do I add a teammate to the workspace?,account
+1774,Please close my account and delete my data.,account
+2123,Please report abuse: a user is leaking credentials in forum posts.,security
+1098,"Two-factor authentication lockout, recovery codes lost.",account
+2074,"Two-factor authentication lockout, recovery codes lost.",account
+1542,How do I add a teammate to the workspace?,account
+1401,Search results take over 30 seconds to load.,technical
+1301,The app crashes on startup since the last update.,technical
+1765,Export to CSV has been failing for three days.,technical
+2180,Card was charged 2358 dollars instead of the advertised price.,billing
+1879,I received a phishing email pretending to be your billing team.,security
+1921,Search results take over 30 seconds to load.,technical
+1802,How do I add a teammate to the workspace?,account
+1676,We were billed twice for March.,billing
+2019,Please report abuse: a user is leaking credentials in forum posts.,security
+2036,Please refund the duplicate payment on invoice #9138.,billing
+1165,Login page returns a 500 error in Chrome.,technical
+1045,Login page returns a 500 error in Chrome.,technical
+1482,How do I add a teammate to the workspace?,account
+1704,We were billed twice for March.,billing
+1568,My invoice shows a charge I never approved.,billing
+1832,Card was charged 9903 dollars instead of the advertised price.,billing
+1400,Please refund the duplicate payment on invoice #1552.,billing
+1840,The annual plan was charged but I downgraded to monthly last week.,billing
+1655,Our security scan flagged an exposed token in a public repo.,security
+1436,Card was charged 5386 dollars instead of the advertised price.,billing
+2082,Transfer ownership of the org to another admin.,account
+2034,Transfer ownership of the org to another admin.,account
+1493,Search results take over 30 seconds to load.,technical
+1546,Please close my account and delete my data.,account
+2040,We were billed twice for March.,billing
+1128,Please refund the duplicate payment on invoice #5459.,billing
+1243,Our security scan flagged an exposed token in a public repo.,security
+2186,"Two-factor authentication lockout, recovery codes lost.",account
+1283,Our security scan flagged an exposed token in a public repo.,security
+2179,Someone logged into my account from another country.,security
+1689,The app crashes on startup since the last update.,technical
+2005,The app crashes on startup since the last update.,technical
+1705,The app crashes on startup since the last update.,technical
+1887,Our security scan flagged an exposed token in a public repo.,security
+1285,Export to CSV has been failing for three days.,technical
+1843,I received a phishing email pretending to be your billing team.,security
+1608,My invoice shows a charge I never approved.,billing
+1195,Please report abuse: a user is leaking credentials in forum posts.,security
+1290,I need to change the email on my account.,account
+2106,How do I add a teammate to the workspace?,account
+1892,Please refund the duplicate payment on invoice #3553.,billing
+1822,Transfer ownership of the org to another admin.,account
+1460,My invoice shows a charge I never approved.,billing
+1152,My invoice shows a charge I never approved.,billing
+1466,Please close my account and delete my data.,account
+1925,Export to CSV has been failing for three days.,technical
+2194,"Two-factor authentication lockout, recovery codes lost.",account
+1443,Our security scan flagged an exposed token in a public repo.,security
+1420,Card was charged 4651 dollars instead of the advertised price.,billing
+1779,Please report abuse: a user is leaking credentials in forum posts.,security
+1567,Our security scan flagged an exposed token in a public repo.,security
+1698,I need to change the email on my account.,account
+1105,The app crashes on startup since the last update.,technical
+1079,Suspicious API key was created on our org overnight.,security
+2116,Card was charged 8324 dollars instead of the advertised price.,billing
+1862,Please close my account and delete my data.,account
+1076,We were billed twice for March.,billing
+1082,Please close my account and delete my data.,account
+1497,Login page returns a 500 error in Chrome.,technical
+1804,Card was charged 7627 dollars instead of the advertised price.,billing
+1304,We were billed twice for March.,billing
+2114,Transfer ownership of the org to another admin.,account
+2174,Transfer ownership of the org to another admin.,account
+1026,Transfer ownership of the org to another admin.,account
+1995,Someone logged into my account from another country.,security
+1036,Card was charged 8377 dollars instead of the advertised price.,billing
+2191,I received a phishing email pretending to be your billing team.,security
+1569,Search results take over 30 seconds to load.,technical
+1746,Transfer ownership of the org to another admin.,account
+1467,Someone logged into my account from another country.,security
+1379,Our security scan flagged an exposed token in a public repo.,security
+1965,Search results take over 30 seconds to load.,technical
+1976,My invoice shows a charge I never approved.,billing
+1808,My invoice shows a charge I never approved.,billing
+1819,Suspicious API key was created on our org overnight.,security
+1626,Transfer ownership of the org to another admin.,account
+1555,Our security scan flagged an exposed token in a public repo.,security
+2092,Card was charged 3455 dollars instead of the advertised price.,billing
+2100,We were billed twice for March.,billing
+1956,Card was charged 7524 dollars instead of the advertised price.,billing
+1644,The annual plan was charged but I downgraded to monthly last week.,billing
+1701,Webhook deliveries stopped after we rotated the API key.,technical
+1374,Please close my account and delete my data.,account
+1699,Our security scan flagged an exposed token in a public repo.,security
+1503,Suspicious API key was created on our org overnight.,security
+2042,Transfer ownership of the org to another admin.,account
+1126,"Two-factor authentication lockout, recovery codes lost.",account
+1797,Login page returns a 500 error in Chrome.,technical
+1823,Our security scan flagged an exposed token in a public repo.,security
+1773,Search results take over 30 seconds to load.,technical
+1341,The app crashes on startup since the last update.,technical
+1749,The app crashes on startup since the last update.,technical
+1968,The annual plan was charged but I downgraded to monthly last week.,billing
+1951,Someone logged into my account from another country.,security
+1331,Suspicious API key was created on our org overnight.,security
+2131,I received a phishing email pretending to be your billing team.,security
+1920,The annual plan was charged but I downgraded to monthly last week.,billing
+1998,How do I add a teammate to the workspace?,account
+1950,Please close my account and delete my data.,account
+1424,My invoice shows a charge I never approved.,billing
+1535,Our security scan flagged an exposed token in a public repo.,security
+1794,"Two-factor authentication lockout, recovery codes lost.",account
+1726,How do I add a teammate to the workspace?,account
+2117,Login page returns a 500 error in Chrome.,technical
+2118,How do I add a teammate to the workspace?,account
+2133,The app crashes on startup since the last update.,technical
+2003,Someone logged into my account from another country.,security
+1044,The annual plan was charged but I downgraded to monthly last week.,billing
+1481,Webhook deliveries stopped after we rotated the API key.,technical
+2029,Export to CSV has been failing for three days.,technical
+2192,The annual plan was charged but I downgraded to monthly last week.,billing
+1177,Webhook deliveries stopped after we rotated the API key.,technical
+1730,Transfer ownership of the org to another admin.,account
+1738,How do I add a teammate to the workspace?,account
+1147,Suspicious API key was created on our org overnight.,security
+2120,Please refund the duplicate payment on invoice #6032.,billing
+1780,The annual plan was charged but I downgraded to monthly last week.,billing
+1327,Please report abuse: a user is leaking credentials in forum posts.,security
+2028,Please refund the duplicate payment on invoice #4354.,billing
+2080,My invoice shows a charge I never approved.,billing
+1545,The app crashes on startup since the last update.,technical
+1789,Webhook deliveries stopped after we rotated the API key.,technical
+1521,Search results take over 30 seconds to load.,technical
+2054,I need to change the email on my account.,account
+1312,We were billed twice for March.,billing
+1356,We were billed twice for March.,billing
+1673,Search results take over 30 seconds to load.,technical
+1422,I need to change the email on my account.,account
+1501,Webhook deliveries stopped after we rotated the API key.,technical
+1114,Transfer ownership of the org to another admin.,account
+1583,Someone logged into my account from another country.,security
+1418,I need to change the email on my account.,account
+1845,Export to CSV has been failing for three days.,technical
+1557,Export to CSV has been failing for three days.,technical
+2017,The app crashes on startup since the last update.,technical
+1732,My invoice shows a charge I never approved.,billing
+1201,Export to CSV has been failing for three days.,technical
+1477,Export to CSV has been failing for three days.,technical
+2142,"Two-factor authentication lockout, recovery codes lost.",account
+1403,Please report abuse: a user is leaking credentials in forum posts.,security
+1004,Card was charged 5420 dollars instead of the advertised price.,billing
+1068,The annual plan was charged but I downgraded to monthly last week.,billing
+2059,Please report abuse: a user is leaking credentials in forum posts.,security
+1710,Please close my account and delete my data.,account
+1901,Export to CSV has been failing for three days.,technical
+1983,Suspicious API key was created on our org overnight.,security
+1734,Please close my account and delete my data.,account
+1958,Please close my account and delete my data.,account
+2188,Card was charged 3110 dollars instead of the advertised price.,billing
+1185,Webhook deliveries stopped after we rotated the API key.,technical
+1188,The annual plan was charged but I downgraded to monthly last week.,billing
+2068,The annual plan was charged but I downgraded to monthly last week.,billing
+1782,Please close my account and delete my data.,account
+1267,Someone logged into my account from another country.,security
+1500,My invoice shows a charge I never approved.,billing
+1875,I received a phishing email pretending to be your billing team.,security
+1759,Our security scan flagged an exposed token in a public repo.,security
+1936,We were billed twice for March.,billing
+1277,Login page returns a 500 error in Chrome.,technical
+1090,Transfer ownership of the org to another admin.,account
+1880,Card was charged 8007 dollars instead of the advertised price.,billing
+2109,The app crashes on startup since the last update.,technical
+1242,"Two-factor authentication lockout, recovery codes lost.",account
+1926,How do I add a teammate to the workspace?,account
+2018,I need to change the email on my account.,account
+1430,"Two-factor authentication lockout, recovery codes lost.",account
+1633,Export to CSV has been failing for three days.,technical
+1562,Please close my account and delete my data.,account
+2077,Login page returns a 500 error in Chrome.,technical
+1613,Login page returns a 500 error in Chrome.,technical
+1986,I need to change the email on my account.,account
+1210,"Two-factor authentication lockout, recovery codes lost.",account
+1081,Webhook deliveries stopped after we rotated the API key.,technical
+2087,Someone logged into my account from another country.,security
+1506,How do I add a teammate to the workspace?,account
+1174,Transfer ownership of the org to another admin.,account
+1969,Export to CSV has been failing for three days.,technical
+1349,Login page returns a 500 error in Chrome.,technical
+1722,How do I add a teammate to the workspace?,account
+1119,Our security scan flagged an exposed token in a public repo.,security
+1792,My invoice shows a charge I never approved.,billing
+1399,I received a phishing email pretending to be your billing team.,security
+1490,Transfer ownership of the org to another admin.,account
+1934,I need to change the email on my account.,account
+1103,I received a phishing email pretending to be your billing team.,security
+2083,Please report abuse: a user is leaking credentials in forum posts.,security
+1012,Card was charged 5734 dollars instead of the advertised price.,billing
+1740,My invoice shows a charge I never approved.,billing
+1421,Export to CSV has been failing for three days.,technical
+2071,Someone logged into my account from another country.,security
+1033,Export to CSV has been failing for three days.,technical
+99991,,billing
+1556,Card was charged 8209 dollars instead of the advertised price.,billing
+1999,I received a phishing email pretending to be your billing team.,security
+1369,Webhook deliveries stopped after we rotated the API key.,technical
+1672,We were billed twice for March.,billing
+1526,Transfer ownership of the org to another admin.,account
+1713,Search results take over 30 seconds to load.,technical
+1776,We were billed twice for March.,billing
+1446,Transfer ownership of the org to another admin.,account
+1037,Login page returns a 500 error in Chrome.,technical
+1647,Our security scan flagged an exposed token in a public repo.,security
+1288,Card was charged 3871 dollars instead of the advertised price.,billing
+1696,Card was charged 5054 dollars instead of the advertised price.,billing
+1834,How do I add a teammate to the workspace?,account
+1931,Suspicious API key was created on our org overnight.,security
+1945,The app crashes on startup since the last update.,technical
+2143,Please report abuse: a user is leaking credentials in forum posts.,security
+1339,Someone logged into my account from another country.,security
+2030,I need to change the email on my account.,account
+1058,"Two-factor authentication lockout, recovery codes lost.",account
+1897,The app crashes on startup since the last update.,technical
+1061,The app crashes on startup since the last update.,technical
+2026,Please close my account and delete my data.,account
+1736,We were billed twice for March.,billing
+1060,Please refund the duplicate payment on invoice #5375.,billing
+1814,Transfer ownership of the org to another admin.,account
+1559,Our security scan flagged an exposed token in a public repo.,security
+1154,Please close my account and delete my data.,account
+1206,"Two-factor authentication lockout, recovery codes lost.",account
+1496,We were billed twice for March.,billing
+1902,How do I add a teammate to the workspace?,account
+1332,The annual plan was charged but I downgraded to monthly last week.,billing
+1357,Export to CSV has been failing for three days.,technical
+1450,"Two-factor authentication lockout, recovery codes lost.",account
+1107,I received a phishing email pretending to be your billing team.,security
+1296,Please refund the duplicate payment on invoice #5976.,billing
+1528,The annual plan was charged but I downgraded to monthly last week.,billing
+2162,How do I add a teammate to the workspace?,account
+2125,The app crashes on startup since the last update.,technical
+1890,I need to change the email on my account.,account
+1322,I need to change the email on my account.,account
+1869,The app crashes on startup since the last update.,technical
+1405,Webhook deliveries stopped after we rotated the API key.,technical
+1213,Webhook deliveries stopped after we rotated the API key.,technical
+1067,Please report abuse: a user is leaking credentials in forum posts.,security
+1352,The annual plan was charged but I downgraded to monthly last week.,billing
+1444,My invoice shows a charge I never approved.,billing
+1677,Webhook deliveries stopped after we rotated the API key.,technical
+1853,The app crashes on startup since the last update.,technical
+2091,I received a phishing email pretending to be your billing team.,security
+1129,The app crashes on startup since the last update.,technical
+1527,Someone logged into my account from another country.,security
+1724,Card was charged 3254 dollars instead of the advertised price.,billing
+1472,We were billed twice for March.,billing
+1468,Card was charged 5964 dollars instead of the advertised price.,billing
+2039,Suspicious API key was created on our org overnight.,security
+2137,Search results take over 30 seconds to load.,technical
+1915,Someone logged into my account from another country.,security
+1795,Suspicious API key was created on our org overnight.,security
+1064,The annual plan was charged but I downgraded to monthly last week.,billing
+2108,Please refund the duplicate payment on invoice #9570.,billing
+1389,Export to CSV has been failing for three days.,technical
+1084,The annual plan was charged but I downgraded to monthly last week.,billing
+1741,Export to CSV has been failing for three days.,technical
+1725,Login page returns a 500 error in Chrome.,technical
+1754,Please close my account and delete my data.,account
+1702,Please close my account and delete my data.,account
+1203,Suspicious API key was created on our org overnight.,security
+1373,Export to CSV has been failing for three days.,technical
+1390,How do I add a teammate to the workspace?,account
+2078,I need to change the email on my account.,account
+1685,Export to CSV has been failing for three days.,technical
+1255,Someone logged into my account from another country.,security
+1544,The annual plan was charged but I downgraded to monthly last week.,billing
+1329,Webhook deliveries stopped after we rotated the API key.,technical
+1094,How do I add a teammate to the workspace?,account
+1479,Suspicious API key was created on our org overnight.,security
+2058,"Two-factor authentication lockout, recovery codes lost.",account
+1485,Webhook deliveries stopped after we rotated the API key.,technical
+2044,The annual plan was charged but I downgraded to monthly last week.,billing
+1937,Search results take over 30 seconds to load.,technical
+2015,Someone logged into my account from another country.,security
+1959,Someone logged into my account from another country.,security
+1269,The app crashes on startup since the last update.,technical
+1663,I received a phishing email pretending to be your billing team.,security
+1854,How do I add a teammate to the workspace?,account
+1465,The app crashes on startup since the last update.,technical
+1002,"Two-factor authentication lockout, recovery codes lost.",account
+2145,Search results take over 30 seconds to load.,technical
+1232,The annual plan was charged but I downgraded to monthly last week.,billing
+1406,"Two-factor authentication lockout, recovery codes lost.",account
+1042,"Two-factor authentication lockout, recovery codes lost.",account
+1455,Please report abuse: a user is leaking credentials in forum posts.,security
+2129,Export to CSV has been failing for three days.,technical
+1727,Our security scan flagged an exposed token in a public repo.,security
+1291,Please report abuse: a user is leaking credentials in forum posts.,security
+1140,We were billed twice for March.,billing
+1367,I received a phishing email pretending to be your billing team.,security
+1591,I received a phishing email pretending to be your billing team.,security
+2130,Please close my account and delete my data.,account
+2134,How do I add a teammate to the workspace?,account
+1690,"Two-factor authentication lockout, recovery codes lost.",account
+1309,Search results take over 30 seconds to load.,technical
+2047,I received a phishing email pretending to be your billing team.,security
+1531,Please report abuse: a user is leaking credentials in forum posts.,security
+1181,Export to CSV has been failing for three days.,technical
+1623,Someone logged into my account from another country.,security
+1777,Login page returns a 500 error in Chrome.,technical
+1158,I need to change the email on my account.,account
+1017,The app crashes on startup since the last update.,technical
+1412,The annual plan was charged but I downgraded to monthly last week.,billing
+1908,My invoice shows a charge I never approved.,billing
+1123,Someone logged into my account from another country.,security
+1248,The annual plan was charged but I downgraded to monthly last week.,billing
+1172,The annual plan was charged but I downgraded to monthly last week.,billing
+1670,Please close my account and delete my data.,account
+1744,The annual plan was charged but I downgraded to monthly last week.,billing
+2000,My invoice shows a charge I never approved.,billing
+2199,Please report abuse: a user is leaking credentials in forum posts.,security
+1675,Suspicious API key was created on our org overnight.,security
+1571,Our security scan flagged an exposed token in a public repo.,security
+1342,Please close my account and delete my data.,account
+1813,Login page returns a 500 error in Chrome.,technical
+1513,Webhook deliveries stopped after we rotated the API key.,technical
+1054,Please close my account and delete my data.,account
+1809,Webhook deliveries stopped after we rotated the API key.,technical
+1662,"Two-factor authentication lockout, recovery codes lost.",account
+1338,I need to change the email on my account.,account
+1229,The app crashes on startup since the last update.,technical
+1697,Webhook deliveries stopped after we rotated the API key.,technical
+2166,"Two-factor authentication lockout, recovery codes lost.",account
+1679,Suspicious API key was created on our org overnight.,security
+2101,Webhook deliveries stopped after we rotated the API key.,technical
+1298,Transfer ownership of the org to another admin.,account
+1942,Please close my account and delete my data.,account
+1982,"Two-factor authentication lockout, recovery codes lost.",account
+1118,"Two-factor authentication lockout, recovery codes lost.",account
+1169,Login page returns a 500 error in Chrome.,technical
+1115,Suspicious API key was created on our org overnight.,security
+1686,Please close my account and delete my data.,account
+1463,Our security scan flagged an exposed token in a public repo.,security
+1087,Suspicious API key was created on our org overnight.,security
+1447,I received a phishing email pretending to be your billing team.,security
+1471,Suspicious API key was created on our org overnight.,security
+2135,Someone logged into my account from another country.,security
+1735,Someone logged into my account from another country.,security
+1884,My invoice shows a charge I never approved.,billing
+1458,Transfer ownership of the org to another admin.,account
+1085,Webhook deliveries stopped after we rotated the API key.,technical
+1600,The annual plan was charged but I downgraded to monthly last week.,billing
+1409,Search results take over 30 seconds to load.,technical
+1619,Suspicious API key was created on our org overnight.,security
+1022,Please close my account and delete my data.,account
+1801,Export to CSV has been failing for three days.,technical
+1944,Card was charged 6812 dollars instead of the advertised price.,billing
+2097,Login page returns a 500 error in Chrome.,technical
+1099,Someone logged into my account from another country.,security
+2165,Login page returns a 500 error in Chrome.,technical
+1939,Someone logged into my account from another country.,security
+1214,Please close my account and delete my data.,account
+1457,Login page returns a 500 error in Chrome.,technical
+1825,Webhook deliveries stopped after we rotated the API key.,technical
+1326,Transfer ownership of the org to another admin.,account
+1919,Please report abuse: a user is leaking credentials in forum posts.,security
+1742,Transfer ownership of the org to another admin.,account
+2063,I received a phishing email pretending to be your billing team.,security
+2076,The annual plan was charged but I downgraded to monthly last week.,billing
+1629,The app crashes on startup since the last update.,technical
+1428,Please refund the duplicate payment on invoice #2375.,billing
+1574,I need to change the email on my account.,account
+1007,I received a phishing email pretending to be your billing team.,security
+1916,The annual plan was charged but I downgraded to monthly last week.,billing
+1856,Please refund the duplicate payment on invoice #9516.,billing
+2055,Someone logged into my account from another country.,security
+2195,Our security scan flagged an exposed token in a public repo.,security
+1019,Suspicious API key was created on our org overnight.,security
+2022,"Two-factor authentication lockout, recovery codes lost.",account
+1576,The annual plan was charged but I downgraded to monthly last week.,billing
+1381,Login page returns a 500 error in Chrome.,technical
+1812,Please refund the duplicate payment on invoice #7688.,billing
+1872,Card was charged 6251 dollars instead of the advertised price.,billing
+1486,"Two-factor authentication lockout, recovery codes lost.",account
+1522,How do I add a teammate to the workspace?,account
+1523,I received a phishing email pretending to be your billing team.,security
+2189,Login page returns a 500 error in Chrome.,technical
+1791,Our security scan flagged an exposed token in a public repo.,security
+1866,I need to change the email on my account.,account
+1348,We were billed twice for March.,billing
+2168,My invoice shows a charge I never approved.,billing
+1881,Webhook deliveries stopped after we rotated the API key.,technical
+1505,The app crashes on startup since the last update.,technical
+1279,Please report abuse: a user is leaking credentials in forum posts.,security
+1411,Suspicious API key was created on our org overnight.,security
+2066,Transfer ownership of the org to another admin.,account
+1752,Please refund the duplicate payment on invoice #3306.,billing
+1431,I received a phishing email pretending to be your billing team.,security
+1234,How do I add a teammate to the workspace?,account
+1464,Please refund the duplicate payment on invoice #8246.,billing
+1135,Suspicious API key was created on our org overnight.,security
+2182,Transfer ownership of the org to another admin.,account
+1541,The app crashes on startup since the last update.,technical
+1133,Export to CSV has been failing for three days.,technical
+1508,The annual plan was charged but I downgraded to monthly last week.,billing
+1237,Export to CSV has been failing for three days.,technical
+1648,We were billed twice for March.,billing
+1667,Suspicious API key was created on our org overnight.,security
+1069,Webhook deliveries stopped after we rotated the API key.,technical
+1714,How do I add a teammate to the workspace?,account
+1336,Please refund the duplicate payment on invoice #8425.,billing
+1166,Please close my account and delete my data.,account
+1038,I need to change the email on my account.,account
+1695,Suspicious API key was created on our org overnight.,security
+1315,Someone logged into my account from another country.,security
+1661,Export to CSV has been failing for three days.,technical
+1256,Please refund the duplicate payment on invoice #8939.,billing
+1706,"Two-factor authentication lockout, recovery codes lost.",account
+1160,The annual plan was charged but I downgraded to monthly last week.,billing
+1737,Search results take over 30 seconds to load.,technical
+1870,How do I add a teammate to the workspace?,account
+2171,Someone logged into my account from another country.,security
+1668,My invoice shows a charge I never approved.,billing
+1372,The annual plan was charged but I downgraded to monthly last week.,billing
+1219,Suspicious API key was created on our org overnight.,security
+1368,My invoice shows a charge I never approved.,billing
+1753,The app crashes on startup since the last update.,technical
+1375,Please report abuse: a user is leaking credentials in forum posts.,security
+1476,The annual plan was charged but I downgraded to monthly last week.,billing
+2024,The annual plan was charged but I downgraded to monthly last week.,billing
+1095,I received a phishing email pretending to be your billing team.,security
+1392,Card was charged 9690 dollars instead of the advertised price.,billing
+2190,Please close my account and delete my data.,account
+1092,My invoice shows a charge I never approved.,billing
+2175,Our security scan flagged an exposed token in a public repo.,security
+1093,Login page returns a 500 error in Chrome.,technical
+1653,Export to CSV has been failing for three days.,technical
+1415,Suspicious API key was created on our org overnight.,security
+1580,We were billed twice for March.,billing
+1062,Please close my account and delete my data.,account
+1456,Please refund the duplicate payment on invoice #8762.,billing
+1227,Someone logged into my account from another country.,security
+1198,Please close my account and delete my data.,account
+1142,Please close my account and delete my data.,account
+1805,Export to CSV has been failing for three days.,technical
+1990,Please close my account and delete my data.,account
+2170,How do I add a teammate to the workspace?,account
+1000,My invoice shows a charge I never approved.,billing
+1252,The annual plan was charged but I downgraded to monthly last week.,billing
+1459,I received a phishing email pretending to be your billing team.,security
+1055,I received a phishing email pretending to be your billing team.,security
+1417,The app crashes on startup since the last update.,technical
+1220,My invoice shows a charge I never approved.,billing
+1930,I need to change the email on my account.,account
+2002,"Two-factor authentication lockout, recovery codes lost.",account
+1365,Login page returns a 500 error in Chrome.,technical
+1163,Please report abuse: a user is leaking credentials in forum posts.,security
+1109,Search results take over 30 seconds to load.,technical
+1861,Search results take over 30 seconds to load.,technical
+1761,Search results take over 30 seconds to load.,technical
+2124,Please refund the duplicate payment on invoice #2836.,billing
+1454,How do I add a teammate to the workspace?,account
+1584,Card was charged 2283 dollars instead of the advertised price.,billing
+1964,Please refund the duplicate payment on invoice #9838.,billing
+1131,Please report abuse: a user is leaking credentials in forum posts.,security
+1864,Please refund the duplicate payment on invoice #3658.,billing
+1040,Please refund the duplicate payment on invoice #4575.,billing
+1146,Please close my account and delete my data.,account
+1086,I need to change the email on my account.,account
+1827,Someone logged into my account from another country.,security
+1978,How do I add a teammate to the workspace?,account
+1011,Please report abuse: a user is leaking credentials in forum posts.,security
+1148,The annual plan was charged but I downgraded to monthly last week.,billing
+2157,Webhook deliveries stopped after we rotated the API key.,technical
+1904,Card was charged 6987 dollars instead of the advertised price.,billing
+1618,"Two-factor authentication lockout, recovery codes lost.",account
+1816,We were billed twice for March.,billing
+1438,"Two-factor authentication lockout, recovery codes lost.",account
+1088,The annual plan was charged but I downgraded to monthly last week.,billing
+1605,Webhook deliveries stopped after we rotated the API key.,technical
+1611,Please report abuse: a user is leaking credentials in forum posts.,security
+2164,My invoice shows a charge I never approved.,billing
+1346,I need to change the email on my account.,account
+1510,Please close my account and delete my data.,account
+2139,Suspicious API key was created on our org overnight.,security
+1565,Login page returns a 500 error in Chrome.,technical
+1815,Our security scan flagged an exposed token in a public repo.,security
+1225,Webhook deliveries stopped after we rotated the API key.,technical
+1912,My invoice shows a charge I never approved.,billing
+2081,Login page returns a 500 error in Chrome.,technical
+1136,Card was charged 1461 dollars instead of the advertised price.,billing
+1196,Please refund the duplicate payment on invoice #6747.,billing
+1001,Webhook deliveries stopped after we rotated the API key.,technical
+1442,I need to change the email on my account.,account
+1841,Export to CSV has been failing for three days.,technical
+1270,Transfer ownership of the org to another admin.,account
+1636,Card was charged 9667 dollars instead of the advertised price.,billing
+2110,"Two-factor authentication lockout, recovery codes lost.",account
+1715,Our security scan flagged an exposed token in a public repo.,security
+1593,Webhook deliveries stopped after we rotated the API key.,technical
+1402,Please close my account and delete my data.,account
+1760,We were billed twice for March.,billing
+1962,How do I add a teammate to the workspace?,account
+1963,Suspicious API key was created on our org overnight.,security
+1247,Please report abuse: a user is leaking credentials in forum posts.,security
+1551,Someone logged into my account from another country.,security
+1906,Please close my account and delete my data.,account
+1408,The annual plan was charged but I downgraded to monthly last week.,billing
+1190,I need to change the email on my account.,account
+1262,Transfer ownership of the org to another admin.,account
+1616,Card was charged 3946 dollars instead of the advertised price.,billing
+1581,Search results take over 30 seconds to load.,technical
+1404,My invoice shows a charge I never approved.,billing
+1305,Webhook deliveries stopped after we rotated the API key.,technical
+1393,Webhook deliveries stopped after we rotated the API key.,technical
+2149,Login page returns a 500 error in Chrome.,technical
+1153,Webhook deliveries stopped after we rotated the API key.,technical
+1842,I need to change the email on my account.,account
+1170,Transfer ownership of the org to another admin.,account
+2183,I received a phishing email pretending to be your billing team.,security
+1977,Webhook deliveries stopped after we rotated the API key.,technical
+2098,Please close my account and delete my data.,account
+1868,My invoice shows a charge I never approved.,billing
+1645,Webhook deliveries stopped after we rotated the API key.,technical
+2061,The app crashes on startup since the last update.,technical
+1961,Webhook deliveries stopped after we rotated the API key.,technical
+1577,Export to CSV has been failing for three days.,technical
+1355,Someone logged into my account from another country.,security
+1429,Webhook deliveries stopped after we rotated the API key.,technical
+1716,Card was charged 9660 dollars instead of the advertised price.,billing
+1317,Webhook deliveries stopped after we rotated the API key.,technical
+1818,"Two-factor authentication lockout, recovery codes lost.",account
+1859,Someone logged into my account from another country.,security
+2111,I received a phishing email pretending to be your billing team.,security
+1491,I received a phishing email pretending to be your billing team.,security
+1694,How do I add a teammate to the workspace?,account
+1572,My invoice shows a charge I never approved.,billing
+1570,I need to change the email on my account.,account
+1768,Please refund the duplicate payment on invoice #7799.,billing
+1693,Export to CSV has been failing for three days.,technical
+1273,Webhook deliveries stopped after we rotated the API key.,technical
+1614,Transfer ownership of the org to another admin.,account
+1712,The annual plan was charged but I downgraded to monthly last week.,billing
+1549,Login page returns a 500 error in Chrome.,technical
+1432,We were billed twice for March.,billing
+1274,Transfer ownership of the org to another admin.,account
+1509,The app crashes on startup since the last update.,technical
+1461,Search results take over 30 seconds to load.,technical
+1013,The app crashes on startup since the last update.,technical
+1847,I received a phishing email pretending to be your billing team.,security
+1207,Please report abuse: a user is leaking credentials in forum posts.,security
+1849,Login page returns a 500 error in Chrome.,technical
+1271,I received a phishing email pretending to be your billing team.,security
+1091,Please report abuse: a user is leaking credentials in forum posts.,security
+1641,Login page returns a 500 error in Chrome.,technical
+1175,Please report abuse: a user is leaking credentials in forum posts.,security
+1398,Transfer ownership of the org to another admin.,account
+1891,Please report abuse: a user is leaking credentials in forum posts.,security
+2062,Please close my account and delete my data.,account
+1307,Suspicious API key was created on our org overnight.,security
+1917,The app crashes on startup since the last update.,technical
+1183,Our security scan flagged an exposed token in a public repo.,security
+1303,Our security scan flagged an exposed token in a public repo.,security
+2163,Someone logged into my account from another country.,security
+2032,The annual plan was charged but I downgraded to monthly last week.,billing
+1599,Suspicious API key was created on our org overnight.,security
+2013,Webhook deliveries stopped after we rotated the API key.,technical
+1867,Please report abuse: a user is leaking credentials in forum posts.,security
+1478,Please close my account and delete my data.,account
+1360,Card was charged 5779 dollars instead of the advertised price.,billing
+1261,Webhook deliveries stopped after we rotated the API key.,technical
+1552,Card was charged 4708 dollars instead of the advertised price.,billing
+2065,Webhook deliveries stopped after we rotated the API key.,technical
+2107,Someone logged into my account from another country.,security
+1622,How do I add a teammate to the workspace?,account
+1659,I received a phishing email pretending to be your billing team.,security
+1197,Export to CSV has been failing for three days.,technical
+1049,Search results take over 30 seconds to load.,technical
+1949,The app crashes on startup since the last update.,technical
+1550,Please close my account and delete my data.,account
+1979,Someone logged into my account from another country.,security
+1598,I need to change the email on my account.,account
+1635,Suspicious API key was created on our org overnight.,security
+1008,The annual plan was charged but I downgraded to monthly last week.,billing
+1325,Export to CSV has been failing for three days.,technical
+1639,Someone logged into my account from another country.,security
+2177,Search results take over 30 seconds to load.,technical
+1130,"Two-factor authentication lockout, recovery codes lost.",account
+1786,I need to change the email on my account.,account
+1980,My invoice shows a charge I never approved.,billing
+1835,Our security scan flagged an exposed token in a public repo.,security
+1652,Card was charged 4119 dollars instead of the advertised price.,billing
+2033,Export to CSV has been failing for three days.,technical
+1416,The annual plan was charged but I downgraded to monthly last week.,billing
+2031,Please report abuse: a user is leaking credentials in forum posts.,security
+1145,Export to CSV has been failing for three days.,technical
+1488,The annual plan was charged but I downgraded to monthly last week.,billing
+1617,Export to CSV has been failing for three days.,technical
+1953,Login page returns a 500 error in Chrome.,technical
+1020,Please refund the duplicate payment on invoice #5380.,billing
+1783,I received a phishing email pretending to be your billing team.,security
+2090,How do I add a teammate to the workspace?,account
+1246,"Two-factor authentication lockout, recovery codes lost.",account
+1515,Someone logged into my account from another country.,security
+1209,The app crashes on startup since the last update.,technical
+1601,The app crashes on startup since the last update.,technical
+2115,I received a phishing email pretending to be your billing team.,security
+1125,Login page returns a 500 error in Chrome.,technical
+1954,Please close my account and delete my data.,account
+1771,Our security scan flagged an exposed token in a public repo.,security
+1328,Please refund the duplicate payment on invoice #3412.,billing
+1116,The annual plan was charged but I downgraded to monthly last week.,billing
+1711,Our security scan flagged an exposed token in a public repo.,security
+1928,My invoice shows a charge I never approved.,billing
+1161,Export to CSV has been failing for three days.,technical
+1387,Suspicious API key was created on our org overnight.,security
+1826,"Two-factor authentication lockout, recovery codes lost.",account
+1072,Please refund the duplicate payment on invoice #6843.,billing
+2048,We were billed twice for March.,billing
+1324,Please refund the duplicate payment on invoice #4730.,billing
+2050,How do I add a teammate to the workspace?,account
+2070,I need to change the email on my account.,account
+1848,We were billed twice for March.,billing
+1624,We were billed twice for March.,billing
+1811,Someone logged into my account from another country.,security
+1335,Our security scan flagged an exposed token in a public repo.,security
+1249,Webhook deliveries stopped after we rotated the API key.,technical
+2173,The app crashes on startup since the last update.,technical
+1643,Suspicious API key was created on our org overnight.,security
+1330,How do I add a teammate to the workspace?,account
+1364,My invoice shows a charge I never approved.,billing
+1745,Search results take over 30 seconds to load.,technical
+1106,How do I add a teammate to the workspace?,account
+1778,Transfer ownership of the org to another admin.,account
+1927,Please report abuse: a user is leaking credentials in forum posts.,security
+1519,I received a phishing email pretending to be your billing team.,security
+2079,I received a phishing email pretending to be your billing team.,security
+1344,Please refund the duplicate payment on invoice #8368.,billing
+1721,Login page returns a 500 error in Chrome.,technical
+1558,Please close my account and delete my data.,account
+2104,We were billed twice for March.,billing
+1244,We were billed twice for March.,billing
+1151,Suspicious API key was created on our org overnight.,security
+2158,How do I add a teammate to the workspace?,account
+1419,Please report abuse: a user is leaking credentials in forum posts.,security
+1554,Transfer ownership of the org to another admin.,account
+1857,Webhook deliveries stopped after we rotated the API key.,technical
+2198,How do I add a teammate to the workspace?,account
+1987,I received a phishing email pretending to be your billing team.,security
+1078,I need to change the email on my account.,account
+1628,We were billed twice for March.,billing
+1238,I need to change the email on my account.,account
+2138,I need to change the email on my account.,account
+1850,How do I add a teammate to the workspace?,account
+1589,Webhook deliveries stopped after we rotated the API key.,technical
+1056,Card was charged 1554 dollars instead of the advertised price.,billing
+1292,My invoice shows a charge I never approved.,billing
+2008,Please refund the duplicate payment on invoice #3668.,billing
+1388,We were billed twice for March.,billing
+1800,Card was charged 6985 dollars instead of the advertised price.,billing
+1194,How do I add a teammate to the workspace?,account
+1159,Suspicious API key was created on our org overnight.,security
+1191,Our security scan flagged an exposed token in a public repo.,security
+1110,Please close my account and delete my data.,account
+1612,Please refund the duplicate payment on invoice #5020.,billing
+1124,Please refund the duplicate payment on invoice #3314.,billing
+1226,Please close my account and delete my data.,account
+1534,I need to change the email on my account.,account
+1449,Login page returns a 500 error in Chrome.,technical
+1353,Export to CSV has been failing for three days.,technical
+2136,Please refund the duplicate payment on invoice #3278.,billing
+1251,Suspicious API key was created on our org overnight.,security
+2069,Login page returns a 500 error in Chrome.,technical
+1851,Our security scan flagged an exposed token in a public repo.,security
+1883,Suspicious API key was created on our org overnight.,security
+1512,The annual plan was charged but I downgraded to monthly last week.,billing
+1539,Our security scan flagged an exposed token in a public repo.,security
+1300,We were billed twice for March.,billing
+1553,Login page returns a 500 error in Chrome.,technical
+2167,Our security scan flagged an exposed token in a public repo.,security
+1041,Search results take over 30 seconds to load.,technical
+1320,Card was charged 5742 dollars instead of the advertised price.,billing
+1413,Webhook deliveries stopped after we rotated the API key.,technical
+1830,How do I add a teammate to the workspace?,account
+1057,The app crashes on startup since the last update.,technical
+1018,Transfer ownership of the org to another admin.,account
+1561,Search results take over 30 seconds to load.,technical
+1023,Suspicious API key was created on our org overnight.,security
+1287,Our security scan flagged an exposed token in a public repo.,security
+1164,Please refund the duplicate payment on invoice #8017.,billing
+1799,Our security scan flagged an exposed token in a public repo.,security
+2041,Export to CSV has been failing for three days.,technical
+2020,Please refund the duplicate payment on invoice #4059.,billing
+2147,Suspicious API key was created on our org overnight.,security
+1769,Login page returns a 500 error in Chrome.,technical
+1781,The app crashes on startup since the last update.,technical
+1878,"Two-factor authentication lockout, recovery codes lost.",account
+1717,Login page returns a 500 error in Chrome.,technical
+2185,Webhook deliveries stopped after we rotated the API key.,technical
+1731,Someone logged into my account from another country.,security
+1899,Our security scan flagged an exposed token in a public repo.,security
+1750,I need to change the email on my account.,account
+1865,Export to CSV has been failing for three days.,technical
+1748,The annual plan was charged but I downgraded to monthly last week.,billing
+1520,Card was charged 6915 dollars instead of the advertised price.,billing
+1217,Webhook deliveries stopped after we rotated the API key.,technical
+1343,Please report abuse: a user is leaking credentials in forum posts.,security
+2132,We were billed twice for March.,billing
+1796,My invoice shows a charge I never approved.,billing
+2011,Someone logged into my account from another country.,security
+1640,Card was charged 7201 dollars instead of the advertised price.,billing
+2021,Export to CSV has been failing for three days.,technical
+1100,Card was charged 8281 dollars instead of the advertised price.,billing
+1157,Login page returns a 500 error in Chrome.,technical
+1885,Webhook deliveries stopped after we rotated the API key.,technical
+1625,Webhook deliveries stopped after we rotated the API key.,technical
+2187,I received a phishing email pretending to be your billing team.,security
+1319,Our security scan flagged an exposed token in a public repo.,security
+2014,"Two-factor authentication lockout, recovery codes lost.",account
+1168,We were billed twice for March.,billing
+2153,Webhook deliveries stopped after we rotated the API key.,technical
+1065,Webhook deliveries stopped after we rotated the API key.,technical
+1382,Please close my account and delete my data.,account
+1719,Someone logged into my account from another country.,security
+1202,Transfer ownership of the org to another admin.,account
+1385,Webhook deliveries stopped after we rotated the API key.,technical
+1162,"Two-factor authentication lockout, recovery codes lost.",account
+1272,The annual plan was charged but I downgraded to monthly last week.,billing
+1775,Our security scan flagged an exposed token in a public repo.,security
+1935,Please report abuse: a user is leaking credentials in forum posts.,security
+1016,Please refund the duplicate payment on invoice #2697.,billing
+1604,The annual plan was charged but I downgraded to monthly last week.,billing
+2095,Suspicious API key was created on our org overnight.,security
+1700,The annual plan was charged but I downgraded to monthly last week.,billing
+2121,Search results take over 30 seconds to load.,technical
+1224,My invoice shows a charge I never approved.,billing
+1150,Transfer ownership of the org to another admin.,account
+1354,Please close my account and delete my data.,account
+2172,Card was charged 6454 dollars instead of the advertised price.,billing
+1113,The app crashes on startup since the last update.,technical
+1470,How do I add a teammate to the workspace?,account
+1560,Card was charged 7691 dollars instead of the advertised price.,billing
+1435,Our security scan flagged an exposed token in a public repo.,security
+1729,Search results take over 30 seconds to load.,technical
+1245,The app crashes on startup since the last update.,technical
+1440,Please refund the duplicate payment on invoice #3821.,billing
+2056,We were billed twice for March.,billing
+1361,The app crashes on startup since the last update.,technical
+1543,Our security scan flagged an exposed token in a public repo.,security
+1117,Search results take over 30 seconds to load.,technical
+2184,Card was charged 8839 dollars instead of the advertised price.,billing
+1474,"Two-factor authentication lockout, recovery codes lost.",account
+2057,The app crashes on startup since the last update.,technical
+1981,Search results take over 30 seconds to load.,technical
+1720,Card was charged 4227 dollars instead of the advertised price.,billing
+1030,Transfer ownership of the org to another admin.,account
+1071,Please report abuse: a user is leaking credentials in forum posts.,security
+1770,Transfer ownership of the org to another admin.,account
+1003,Suspicious API key was created on our org overnight.,security
+1254,I need to change the email on my account.,account
+1579,Our security scan flagged an exposed token in a public repo.,security
+1943,I received a phishing email pretending to be your billing team.,security
+1820,Card was charged 1277 dollars instead of the advertised price.,billing
+1308,The annual plan was charged but I downgraded to monthly last week.,billing
+2010,I need to change the email on my account.,account
+1034,"Two-factor authentication lockout, recovery codes lost.",account
+2178,Please close my account and delete my data.,account
+1120,The annual plan was charged but I downgraded to monthly last week.,billing
+1155,Our security scan flagged an exposed token in a public repo.,security
+1083,Suspicious API key was created on our org overnight.,security
+1074,Transfer ownership of the org to another admin.,account
+1631,Someone logged into my account from another country.,security
+1475,Someone logged into my account from another country.,security
+1895,Please report abuse: a user is leaking credentials in forum posts.,security
+1149,The app crashes on startup since the last update.,technical
+1108,The annual plan was charged but I downgraded to monthly last week.,billing
+2009,Webhook deliveries stopped after we rotated the API key.,technical
+1588,We were billed twice for March.,billing
+1397,The app crashes on startup since the last update.,technical
+1437,Login page returns a 500 error in Chrome.,technical
+1063,I received a phishing email pretending to be your billing team.,security
+1947,Please report abuse: a user is leaking credentials in forum posts.,security
+2006,I need to change the email on my account.,account
+1448,We were billed twice for March.,billing
+1445,Webhook deliveries stopped after we rotated the API key.,technical
+1691,I received a phishing email pretending to be your billing team.,security
+1985,Export to CSV has been failing for three days.,technical
+1268,My invoice shows a charge I never approved.,billing
+2161,The app crashes on startup since the last update.,technical
+1923,Our security scan flagged an exposed token in a public repo.,security
+1407,I received a phishing email pretending to be your billing team.,security
+2128,The annual plan was charged but I downgraded to monthly last week.,billing
+1427,Please report abuse: a user is leaking credentials in forum posts.,security
+1293,The app crashes on startup since the last update.,technical
+2148,My invoice shows a charge I never approved.,billing
+1747,Please report abuse: a user is leaking credentials in forum posts.,security
+1345,The app crashes on startup since the last update.,technical
+1933,Webhook deliveries stopped after we rotated the API key.,technical
+2046,Please close my account and delete my data.,account
+1286,I need to change the email on my account.,account
+1807,Someone logged into my account from another country.,security
+1632,My invoice shows a charge I never approved.,billing
+1259,Suspicious API key was created on our org overnight.,security
+1029,Search results take over 30 seconds to load.,technical
+1351,Someone logged into my account from another country.,security
+1316,Please refund the duplicate payment on invoice #1276.,billing
+1235,Our security scan flagged an exposed token in a public repo.,security
+1824,My invoice shows a charge I never approved.,billing
+1032,Card was charged 9952 dollars instead of the advertised price.,billing
+1651,I received a phishing email pretending to be your billing team.,security
+2072,My invoice shows a charge I never approved.,billing
+1573,Export to CSV has been failing for three days.,technical
+1723,I received a phishing email pretending to be your billing team.,security
+1310,Transfer ownership of the org to another admin.,account
+2160,My invoice shows a charge I never approved.,billing
+1755,Our security scan flagged an exposed token in a public repo.,security
+1971,Someone logged into my account from another country.,security
+1536,We were billed twice for March.,billing
+1337,Search results take over 30 seconds to load.,technical
+1533,The app crashes on startup since the last update.,technical
+1480,We were billed twice for March.,billing
+1333,Search results take over 30 seconds to load.,technical
+2001,The app crashes on startup since the last update.,technical
+1433,Login page returns a 500 error in Chrome.,technical
+1386,Transfer ownership of the org to another admin.,account
+1208,Please refund the duplicate payment on invoice #5609.,billing
+1377,The app crashes on startup since the last update.,technical
+1391,Someone logged into my account from another country.,security
+2004,Please refund the duplicate payment on invoice #8063.,billing
+1966,Please close my account and delete my data.,account
+1718,"Two-factor authentication lockout, recovery codes lost.",account
+2064,Please refund the duplicate payment on invoice #6117.,billing
+2049,Export to CSV has been failing for three days.,technical
+1216,The annual plan was charged but I downgraded to monthly last week.,billing
+2122,Please close my account and delete my data.,account
+1383,Someone logged into my account from another country.,security
+1703,Someone logged into my account from another country.,security
+1758,How do I add a teammate to the workspace?,account
+1592,The annual plan was charged but I downgraded to monthly last week.,billing
+1425,Export to CSV has been failing for three days.,technical
+2196,My invoice shows a charge I never approved.,billing
+1096,Please refund the duplicate payment on invoice #5370.,billing
+1876,The annual plan was charged but I downgraded to monthly last week.,billing
+99992,,
+1035,I received a phishing email pretending to be your billing team.,security
+1276,Card was charged 3958 dollars instead of the advertised price.,billing
+2023,Please report abuse: a user is leaking credentials in forum posts.,security
+1046,"Two-factor authentication lockout, recovery codes lost.",account
+1763,Someone logged into my account from another country.,security
+1134,I need to change the email on my account.,account
+1024,Card was charged 3057 dollars instead of the advertised price.,billing
+1453,Login page returns a 500 error in Chrome.,technical
+1171,Someone logged into my account from another country.,security
+1858,How do I add a teammate to the workspace?,account
+1187,Our security scan flagged an exposed token in a public repo.,security
+1844,Please refund the duplicate payment on invoice #2929.,billing
+1666,I need to change the email on my account.,account
+1014,I need to change the email on my account.,account
+1218,How do I add a teammate to the workspace?,account
+1671,Please report abuse: a user is leaking credentials in forum posts.,security
+1347,Suspicious API key was created on our org overnight.,security
+1502,How do I add a teammate to the workspace?,account
+2073,Search results take over 30 seconds to load.,technical
+1575,I received a phishing email pretending to be your billing team.,security
+1179,Suspicious API key was created on our org overnight.,security
+2105,The app crashes on startup since the last update.,technical
+2150,I need to change the email on my account.,account
+1240,My invoice shows a charge I never approved.,billing
+1692,My invoice shows a charge I never approved.,billing
+1066,I need to change the email on my account.,account
+1798,Please close my account and delete my data.,account
+1855,Our security scan flagged an exposed token in a public repo.,security
+1596,Please refund the duplicate payment on invoice #5622.,billing
+1650,Please close my account and delete my data.,account
+1910,I need to change the email on my account.,account
+1907,Our security scan flagged an exposed token in a public repo.,security
+1473,Search results take over 30 seconds to load.,technical
+1582,"Two-factor authentication lockout, recovery codes lost.",account
+1340,My invoice shows a charge I never approved.,billing
+1988,Card was charged 8251 dollars instead of the advertised price.,billing
+2093,Webhook deliveries stopped after we rotated the API key.,technical
+1359,Our security scan flagged an exposed token in a public repo.,security
+1313,Login page returns a 500 error in Chrome.,technical
+1439,Please report abuse: a user is leaking credentials in forum posts.,security
+1946,"Two-factor authentication lockout, recovery codes lost.",account
+1646,Please close my account and delete my data.,account
+1025,Webhook deliveries stopped after we rotated the API key.,technical
+1299,Our security scan flagged an exposed token in a public repo.,security
+2016,My invoice shows a charge I never approved.,billing
+1967,Please report abuse: a user is leaking credentials in forum posts.,security
+1494,Please close my account and delete my data.,account
+1281,Export to CSV has been failing for three days.,technical
+1975,Suspicious API key was created on our org overnight.,security
+1173,Webhook deliveries stopped after we rotated the API key.,technical
+2146,How do I add a teammate to the workspace?,account
+2052,Card was charged 7322 dollars instead of the advertised price.,billing
+1366,How do I add a teammate to the workspace?,account
+2053,Webhook deliveries stopped after we rotated the API key.,technical
+2037,Webhook deliveries stopped after we rotated the API key.,technical
+1358,I need to change the email on my account.,account
+2067,Our security scan flagged an exposed token in a public repo.,security
+2181,Search results take over 30 seconds to load.,technical
+1803,Please report abuse: a user is leaking credentials in forum posts.,security
+1674,I need to change the email on my account.,account
+1204,Please refund the duplicate payment on invoice #3155.,billing
+1089,Export to CSV has been failing for three days.,technical
+1265,Search results take over 30 seconds to load.,technical
+1263,Please report abuse: a user is leaking credentials in forum posts.,security
+1233,Search results take over 30 seconds to load.,technical
+1414,I need to change the email on my account.,account
+1487,Please report abuse: a user is leaking credentials in forum posts.,security
+1426,"Two-factor authentication lockout, recovery codes lost.",account
+1764,Please refund the duplicate payment on invoice #2253.,billing
+1384,My invoice shows a charge I never approved.,billing
+1047,I received a phishing email pretending to be your billing team.,security
+1027,I received a phishing email pretending to be your billing team.,security
+1302,I need to change the email on my account.,account
+1660,The annual plan was charged but I downgraded to monthly last week.,billing
+1743,Suspicious API key was created on our org overnight.,security
+1289,Export to CSV has been failing for three days.,technical
+1257,Webhook deliveries stopped after we rotated the API key.,technical
+1075,Our security scan flagged an exposed token in a public repo.,security
+1211,I received a phishing email pretending to be your billing team.,security
+1548,Card was charged 7562 dollars instead of the advertised price.,billing
+1984,My invoice shows a charge I never approved.,billing
+1230,Transfer ownership of the org to another admin.,account
+1156,The annual plan was charged but I downgraded to monthly last week.,billing
+1924,The annual plan was charged but I downgraded to monthly last week.,billing
+1102,Please close my account and delete my data.,account
+1669,Webhook deliveries stopped after we rotated the API key.,technical
+1178,"Two-factor authentication lockout, recovery codes lost.",account
+1532,Please refund the duplicate payment on invoice #5898.,billing
+2088,Please refund the duplicate payment on invoice #5079.,billing
+2094,Transfer ownership of the org to another admin.,account
+1452,The annual plan was charged but I downgraded to monthly last week.,billing
+1031,I received a phishing email pretending to be your billing team.,security
+1609,Login page returns a 500 error in Chrome.,technical
+1873,Webhook deliveries stopped after we rotated the API key.,technical
+1122,I need to change the email on my account.,account
+1790,I need to change the email on my account.,account
+2152,The annual plan was charged but I downgraded to monthly last week.,billing
+2099,Please report abuse: a user is leaking credentials in forum posts.,security
+1874,How do I add a teammate to the workspace?,account
+1784,My invoice shows a charge I never approved.,billing
+1141,Search results take over 30 seconds to load.,technical
+1886,I need to change the email on my account.,account
+1620,My invoice shows a charge I never approved.,billing
+1182,Please close my account and delete my data.,account
+1222,"Two-factor authentication lockout, recovery codes lost.",account
+1073,Search results take over 30 seconds to load.,technical
+1321,Login page returns a 500 error in Chrome.,technical
+1952,Please refund the duplicate payment on invoice #5072.,billing

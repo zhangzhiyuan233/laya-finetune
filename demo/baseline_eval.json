@@ -1,0 +1,20 @@
+{
+  "items": 1200,
+  "loss": 0.9781,
+  "accuracy": 0.61,
+  "mean_confidence": 0.6715,
+  "ece": 0.1904,
+  "brier": 0.5157,
+  "brier_top1": 0.1974,
+  "by_type": {
+    "choice": {
+      "items": 1200,
+      "loss": 0.9781,
+      "accuracy": 0.61,
+      "mean_confidence": 0.6715,
+      "ece": 0.1904,
+      "brier": 0.5157,
+      "brier_top1": 0.1974
+    }
+  }
+}
